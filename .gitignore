@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+#a.txt aa.o abc.exe b.txt bb.o cc.o cde.exe efg.exe icq.jar /libraries xyz.jar
+
+# mkdocs libraries
+libraries/
+# ignore all exe
+*.exe
+# ignore all txt
+*.txt
+# ignore all jar
+*.jar
+# ignore all o
+*.o
